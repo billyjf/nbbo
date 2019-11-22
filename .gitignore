@@ -1,0 +1,12 @@
+/build/reports/tests/test/css/base-style.css
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+.gradle
+gradle
+build
+*.iml
+out
+gen
